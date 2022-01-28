@@ -5,4 +5,4 @@
 [![GitHub](https://img.shields.io/github/license/Jackson-Miller/website)](https://github.com/Jackson-Miller/website/blob/main/LICENSE)
 
 # Source code for thejacksonmiler.com
-Testing website deployments from GitHub to Azure
+Testing website deployments from GitHub to Azure.
